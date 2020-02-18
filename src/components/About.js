@@ -15,7 +15,7 @@ function About() {
               </div>
               <div id="white-bg" className="col-lg-8">
                 <p>
-                  Full Stack Developer, passionate about technology. ReactJS is holding my attention right now, particularly. 
+                  Full Stack Developer, passionate about technology. Experienced in ReactJS, CSS, Javascript, Express, Postgres, Python, Django amoung other things. 
                 </p>
               </div>
             </div>
