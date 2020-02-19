@@ -33,7 +33,7 @@ function Contact() {
               <div className="col-lg-4">
                 <h2>Location</h2>
                 <address>
-                  Boston, MA
+                  Boston, MA <br/> (978)402-6218
                 </address>
               </div>
               <div className="col-lg-4">

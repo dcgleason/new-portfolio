@@ -2,10 +2,18 @@
 
 html {
   -ms-overflow-style: -ms-autohiding-scrollbar;
+  height: 100%;
 }
 
 body{
   font-family: "Ubuntu", sans-serif;
+  height: 100%;
+}
+.splash-container{
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 a.anchor {
