@@ -7,8 +7,7 @@ function Splash() {
         <a className="anchor" id="home" />
         <div id="splash" className="container-fluid">
           <div className="row">
-            <div className="splash-container">
-            <div className="col-lg-12 text-center typewriter">
+            <div className="col-lg-12 text-center typewriter splash-container">
               <h1>Hi, I'm Dan Gleason.</h1>
               <hr />
               <p className="typewriter">
@@ -20,7 +19,7 @@ function Splash() {
                 <a href="https://twitter.com/teachcodehq" target="_blank"><i className="fa fa-twitter-square fa-2x" /></a>
               </p>
             </div>
-            </div>
+
           </div>
         </div>
         {/* End Splash Section  */}
