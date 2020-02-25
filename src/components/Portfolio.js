@@ -58,15 +58,15 @@ function Portfolio() {
                 <div className="row">
                   <div className="col-lg-4">
                     <div className="thumbnail">
-                      <a href="https://yelprestaurants.netlify.com/" target="_blank">
+                      <a href="https://bundledev.netlify.com/" target="_blank">
                         <div className="thumbnail-hover text-center">
                           <i className="fa fa-eye fa-4x" />
                         </div>
-                        <img src="https://i.ibb.co/vxr8vHR/Screen-Shot-2020-02-02-at-7-53-42-PM.png" />
+                        <img src="https://i.ibb.co/cy04Dvg/Screen-Shot-2020-02-24-at-10-04-54-PM.png" />
                       </a>
                       <div className="caption">
-                        <h3>Yelp 2.0</h3>
-                        <p>Built Using: HTML, CSS, ReactJS, Express, MongoDB</p>
+                        <h3>Bundle</h3>
+                        <p>Built Using: ReactJS, GatsbyJS, GraphQL, Apollo, Hasura</p>
                       </div>
                     </div>
                   </div>
@@ -86,7 +86,7 @@ function Portfolio() {
                   </div>
                   <div className="col-lg-4">
                     <div className="thumbnail">
-                      <a href="#" target="_blank">
+                      <a href="" target="_blank">
                         <div className="thumbnail-hover text-center">
                           <i className="fa fa-eye fa-4x" />
                         </div>
