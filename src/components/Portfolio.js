@@ -24,7 +24,7 @@ function Portfolio() {
                     <div className="caption">
                         <h3>Astronomy Trivia</h3>
                         <p>Built using: HTML, CSS, Vanilla JS</p>
-                        <a href="https://github.com/dcgleason/triviaGame">Repo Link</a>
+                        <a href="https://github.com/dcgleason/triviaGame" target="_blank">Repo Link</a>
                       </div>
                   </div>
                   <div className="col-lg-4">
@@ -39,7 +39,7 @@ function Portfolio() {
                     <div className="caption">
                         <h3>Puppy Click Game</h3>
                         <p>Built Using: HTML, CSS, ReactJS</p>
-                        <a href="https://github.com/dcgleason/click-game">Repo Link</a>
+                        <a href="https://github.com/dcgleason/click-game" target="_blank">Repo Link</a>
                       </div>
                   </div>
                   <div className="col-lg-4">
@@ -54,7 +54,7 @@ function Portfolio() {
                     <div className="caption">
                         <h3>Brewery-Tour Manager</h3>
                         <p>Uses: HTML, CSS, ReactJS</p>
-                        <a href="https://github.com/dcgleason/brewery-locator">Repo Link</a>
+                        <a href="https://github.com/dcgleason/brewery-locator" target="_blank">Repo Link</a>
                       </div>
                   </div>
                 </div>
@@ -71,7 +71,7 @@ function Portfolio() {
                     <div className="caption">
                         <h3>Bundle</h3>
                         <p>Built Using: ReactJS, GatsbyJS, GraphQL, Apollo, Hasura</p>
-                        <a href="https://github.com/dcgleason/bundle">Repo Link</a>
+                        <a href="https://github.com/dcgleason/bundle" target="_blank">Repo Link</a>
                       </div>
                   </div>
                   <div className="col-lg-4">
