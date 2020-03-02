@@ -20,11 +20,12 @@ function Portfolio() {
                         </div>
                         <img className="img-responsive" src="https://i.ibb.co/dDqhmwN/Screen-Shot-2019-12-12-at-1-23-23-PM.png" />
                       </a>
-                      <div className="caption">
+                    </div>
+                    <div className="caption">
                         <h3>Astronomy Trivia</h3>
                         <p>Built using: HTML, CSS, Vanilla JS</p>
+                        <a href="https://github.com/dcgleason/triviaGame">Repo Link</a>
                       </div>
-                    </div>
                   </div>
                   <div className="col-lg-4">
                     <div className="thumbnail">
@@ -34,11 +35,12 @@ function Portfolio() {
                         </div>
                         <img className="img-responsive" src="https://i.ibb.co/dJRDhhK/Screen-Shot-2019-12-24-at-11-13-28-AM.png" />
                       </a>
-                      <div className="caption">
+                    </div>
+                    <div className="caption">
                         <h3>Puppy Click Game</h3>
                         <p>Built Using: HTML, CSS, ReactJS</p>
+                        <a href="https://github.com/dcgleason/click-game">Repo Link</a>
                       </div>
-                    </div>
                   </div>
                   <div className="col-lg-4">
                     <div className="thumbnail">
@@ -48,11 +50,12 @@ function Portfolio() {
                         </div>
                         <img src="https://i.ibb.co/DrX175R/Screen-Shot-2020-01-10-at-11-21-18-AM.png" />
                       </a>
-                      <div className="caption">
+                    </div>
+                    <div className="caption">
                         <h3>Brewery-Tour Manager</h3>
                         <p>Uses: HTML, CSS, ReactJS</p>
+                        <a href="https://github.com/dcgleason/brewery-locator">Repo Link</a>
                       </div>
-                    </div>
                   </div>
                 </div>
                 <div className="row">
@@ -64,11 +67,12 @@ function Portfolio() {
                         </div>
                         <img src="https://i.ibb.co/cy04Dvg/Screen-Shot-2020-02-24-at-10-04-54-PM.png" />
                       </a>
-                      <div className="caption">
+                    </div>
+                    <div className="caption">
                         <h3>Bundle</h3>
                         <p>Built Using: ReactJS, GatsbyJS, GraphQL, Apollo, Hasura</p>
+                        <a href="https://github.com/dcgleason/bundle">Repo Link</a>
                       </div>
-                    </div>
                   </div>
                   <div className="col-lg-4">
                     <div className="thumbnail">
